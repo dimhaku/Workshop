@@ -1,0 +1,5 @@
+    1  cd c/users/Jason/Documents
+    2  pwd
+    3  cd /c/users/Jason/Documents
+    4  history
+    5  history > moving_around.txt
